@@ -4,9 +4,9 @@ public class Addition {
 
 	public static void main(String[] args) {
 		
-		int a=10;
-		int b=60;
-		int c=a+b;
+		int x=10;
+		int y=60;
+		int z=a+b;
 		
 		System.out.println("The Addition is " + c);
 	}
